@@ -1,0 +1,29 @@
+{
+  "name": "hashgraph",
+  "version": "1.0.0",
+  "description": "I was profoundly inspired to develop a cutting-edge tender management application upon recognizing the inefficiencies inherent in the existing system. The management of tenders often entails a laborious and intricate process involving multiple stakeholders operating at various stages. My objective was to create a sustainable application that would streamline this process while ensuring transparency and promoting environmentally responsible practices for all involved parties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/hethers": "^1.2.6",
+    "@hashgraph/sdk": "^2.27.0",
+    "@hashgraph/hedera-local": "^2.4.5",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-clinch/GreenVestors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/max-clinch/GreenVestors/issues"
+  },
+  "homepage": "https://github.com/max-clinch/GreenVestors#readme"
+}
